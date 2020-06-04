@@ -1,0 +1,7 @@
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\bin\Debug\CurrentBrowserTab.exe.config
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\bin\Debug\CurrentBrowserTab.exe
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\bin\Debug\CurrentBrowserTab.pdb
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\obj\Debug\CurrentBrowserTab.csprojAssemblyReference.cache
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\obj\Debug\CurrentBrowserTab.csproj.CoreCompileInputs.cache
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\obj\Debug\CurrentBrowserTab.exe
+C:\Prashant\Code\CurrentBrowserTab\CurrentBrowserTab\obj\Debug\CurrentBrowserTab.pdb
